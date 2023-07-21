@@ -1,5 +1,6 @@
 # bank-acount
-simple test bank acount in c++ 
+simple test bank acount in c++ using data structure 
+
 
 THIS PROGRAM TEST AS AN BANK 
 
